@@ -40,7 +40,7 @@ fun main(args: Array<String>) {
     val kotlinLogo = """| // 
         .| //
          .|/ \""".trimMargin()
-    println(kotlinLogo.trimMargin(".")
+    println(kotlinLogo.trimMargin("."))
 //    saveUser(User(1,"", ""))
 
 }
